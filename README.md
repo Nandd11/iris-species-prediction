@@ -29,11 +29,12 @@ Models implemented and compared:
 
 All models performed strongly on the Iris dataset.
 
-| Model                       | Accuracy | Macro ROC-AUC (OvR) |
-| --------------------------- | -------- | ------------------- |
-| KNN (tuned)                 | 0.9467   | 0.9955              |
-| Logistic Regression (tuned) | 0.9467   | 0.9965              |
-| Naive Bayes                 | 0.9467   | 0.9931              |
+| Model | Accuracy | Macro ROC-AUC (OvR) |
+|------|----------|----------------------|
+| KNN (tuned) | 0.9467 | 0.9955 |
+| Logistic Regression (tuned) | 0.9467 | 0.9965 |
+| Naive Bayes | 0.9467 | 0.9931 |
+
 
 ✅ **Best ROC-AUC:** Logistic Regression (tuned)
 ✅ **Accuracy:** All three models achieved the same accuracy on this split.
@@ -73,6 +74,7 @@ All models performed strongly on the Iris dataset.
 ```bash
 git clone https://github.com/Nandd11/iris-species-prediction.git
 cd iris-species-prediction
+
 ```
 
 ### 2) Install dependencies
