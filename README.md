@@ -28,10 +28,11 @@ Models implemented and compared:
 All models performed strongly on the Iris dataset.
 
 | Model | Accuracy | Macro ROC-AUC (OvR) |
-|------|----------|---------------------|
+|------|----------|----------------------|
 | KNN (tuned) | 0.9467 | 0.9955 |
 | Logistic Regression (tuned) | 0.9467 | 0.9965 |
 | Naive Bayes | 0.9467 | 0.9931 |
+
 
 ✅ **Best ROC-AUC:** Logistic Regression (tuned)  
 ✅ **Accuracy:** All three models are equal on this split.
