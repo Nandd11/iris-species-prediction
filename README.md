@@ -8,8 +8,6 @@ Models implemented and compared:
 - **Logistic Regression** (with hyperparameter tuning)
 - **Naive Bayes** (GaussianNB baseline)
 
-> Note: As per assignment instructions, the models are trained on **50% of the dataset** and tested on **50%** to make predictions slightly harder.
-
 ---
 
 ## Dataset
@@ -68,8 +66,9 @@ All models performed strongly on the Iris dataset.
 
 ### 1) Clone repository
 ```bash
-git clone https://github.com/<your-username>/iris-flower-classification.git
-cd iris-flower-classification
+git clone https://github.com/Nandd11/iris-species-prediction.git
+cd iris-species-prediction
+
 ```
 
 ### 2) Install dependencies
