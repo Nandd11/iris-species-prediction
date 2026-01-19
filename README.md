@@ -83,7 +83,7 @@ jupyter notebook
 ```
 
 Open:
-`notebooks/iris_classification_FINAL.ipynb`
+`notebooks/iris_classification.ipynb`
 
 ---
 
